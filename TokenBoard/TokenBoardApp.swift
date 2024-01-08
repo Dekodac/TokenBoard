@@ -14,4 +14,8 @@ struct TokenBoardApp: App {
             ContentView()
         }
     }
+    
+    init() {
+        print("eat a piece of pie")
+    }
 }
